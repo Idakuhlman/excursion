@@ -5,24 +5,28 @@ body {
     text-align: center;
 }
 
+/* HEADINGS */
+
 h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
-.link {
-    color: aquamarine;
-    text-decoration: underline;
-    font-size: 16px;
-}
-
 h2 {
     font-weight: 300;
     font-size: 42px;
+    color: white;
 }
 
 h4 {
     font-size: 21px;
     color: gray;
+}
+
+/* LINKS */
+.link {
+    color: aquamarine;
+    text-decoration: underline;
+    font-size: 16px;
 }
